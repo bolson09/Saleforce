@@ -1,0 +1,12 @@
+body {
+    background-color: red;
+}
+
+.salesforce_text {
+    font-size: 35pt;
+    background: cornflowerblue;
+}
+.galeria_img {
+    width: 100px;
+    height: 100px;
+}
